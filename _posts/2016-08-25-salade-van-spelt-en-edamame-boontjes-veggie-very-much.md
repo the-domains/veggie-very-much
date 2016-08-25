@@ -16,11 +16,11 @@ inLanguage: nl
 app_links: []
 isBasedOnUrl: 'http://www.veggieverymuch.com/salade-van-spelt-en-edamame-boontjes/'
 title: Salade van spelt en edamame boontjes - Veggie Very Much
-datePublished: '2016-08-25T17:37:36.863Z'
-dateModified: '2016-08-25T17:37:15.138Z'
+datePublished: '2016-08-25T17:38:13.912Z'
+dateModified: '2016-08-25T17:38:07.414Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-salade-van-spelt-en-edamame-boontjes-veggie-very-much.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
