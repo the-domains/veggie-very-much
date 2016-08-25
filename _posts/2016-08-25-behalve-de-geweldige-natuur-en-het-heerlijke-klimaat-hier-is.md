@@ -1,24 +1,22 @@
 ---
-description: >-
-  Behalve de geweldige natuur en het heerlijke klimaat hier is er ook een echte
-  ‘good food’ trend aan de gang. Echt, vers, gezond en fris vegetarisch eten.
-  Producten die ons lichaam voeden, niet alleen maar vullen.
-dateModified: '2016-08-25T16:06:07.059Z'
-datePublished: '2016-08-25T16:06:12.729Z'
-title: ''
-author: []
-publisher:
-  name: Mirjam Leslie Pringle
-via: {}
+datePublished: '2016-08-25T17:07:34.923Z'
 sourcePath: >-
   _posts/2016-08-25-behalve-de-geweldige-natuur-en-het-heerlijke-klimaat-hier-is.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-25T16:12:56.490Z'
+title: ''
+publisher:
+  name: Mirjam Leslie Pringle
+description: Veggie in persoon
 starred: false
 url: behalve-de-geweldige-natuur-en-het-heerlijke-klimaat-hier-is/index.html
 _type: Blurb
 
 ---
-![Als Nederlandse fotografe en schrijfster, woon en werk ik met mijn gezin en dieren in Ibiza. Een van mijn grootste interesses zijn gezonde voeding en het ontwikkelen en fotograferen van dito recepten.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d188c37f-653a-4a15-99b2-9d5df8064bd1.jpg)
+Veggie in persoon
+![Als Nederlandse fotografe en schrijfster, woon en werk ik met mijn gezin en dieren in Ibiza. Een van mijn grootste interesses zijn gezonde voeding en het ontwikkelen en fotograferen van dito recepten.](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6b4b0b094914fed054fa47caafccda0/croprotate.jpg?cropheight=2931&cropwidth=2831&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd188c37f-653a-4a15-99b2-9d5df8064bd1.jpg&x=0&y=0)
 
 Behalve de geweldige natuur en het heerlijke klimaat hier is er ook een echte 'good food' trend aan de gang. Echt, vers, gezond en fris vegetarisch eten. Producten die ons lichaam voeden, niet alleen maar vullen.
 
