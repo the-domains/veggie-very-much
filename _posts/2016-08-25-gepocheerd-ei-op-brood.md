@@ -1,10 +1,11 @@
 ---
-datePublished: '2016-08-25T17:01:25.565Z'
+datePublished: '2016-08-25T17:07:24.452Z'
 sourcePath: _posts/2016-08-25-gepocheerd-ei-op-brood.md
-inFeed: true
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-25T17:01:24.674Z'
+dateModified: '2016-08-25T17:06:12.859Z'
 title: Gepocheerd ei op brood
 publisher:
   name: Mirjam Leslie Pringle
@@ -13,6 +14,7 @@ description: >-
   Ibiza is het kopen van eieren een nogal serieuze aangelegenheid. Als het je om
   lekkere en goede eieren te doen is, tenminste.
 starred: false
+url: gepocheerd-ei-op-brood/index.html
 _type: Blurb
 
 ---
