@@ -1,17 +1,16 @@
 ---
 description: Contact us
-dateModified: '2016-08-25T16:22:04.965Z'
-datePublished: '2016-08-25T16:23:11.249Z'
+dateModified: '2016-08-25T16:24:44.389Z'
+datePublished: '2016-08-25T16:24:46.674Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-25-contact-us.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: contact-us/index.html
+_type: Blurb
 
 ---
 Contact us
