@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-25T16:41:16.423Z'
+datePublished: '2016-08-25T17:01:39.600Z'
 sourcePath: _posts/2016-08-25-miso-noedelsoepje.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-25T16:41:14.096Z'
+dateModified: '2016-08-25T17:01:38.646Z'
 title: Miso-noedelsoepje
 publisher:
   name: Mirjam Leslie Pringle
