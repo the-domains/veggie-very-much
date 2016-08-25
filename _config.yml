@@ -1,4 +1,3 @@
-layout_spectrum: 0.1576740094460547
 typography_spectrum: 0.8568858213257045
 color:
   brandStrength: 0.45559898018836975
@@ -11,10 +10,14 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.1576740094460547
 name: Veggie Very Much
 navigation:
   - name: Veggie In persoon
     id: 4b2770ff-2659-4880-8636-0589ecbd4ab9
+    type: content
+  - name: Contact us
+    id: 1e9a537f-e5dd-4ca0-a5b8-9c3bdfc6aeee
     type: content
 title: Veggie Very Much
 description: Urban Healthy Recipes
