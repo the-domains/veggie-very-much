@@ -1,21 +1,19 @@
 ---
+datePublished: '2016-08-25T17:01:25.565Z'
+sourcePath: _posts/2016-08-25-gepocheerd-ei-op-brood.md
+inFeed: true
+author: []
+via: {}
+dateModified: '2016-08-25T17:01:24.674Z'
+title: Gepocheerd ei op brood
+publisher:
+  name: Mirjam Leslie Pringle
 description: >-
   Ik weet eerlijk gezegd niet hoe het in de rest van Spanje zit, maar hier in
   Ibiza is het kopen van eieren een nogal serieuze aangelegenheid. Als het je om
   lekkere en goede eieren te doen is, tenminste.
-dateModified: '2016-08-25T16:54:51.277Z'
-datePublished: '2016-08-25T16:57:44.816Z'
-title: Gepocheerd ei op brood
-author: []
-publisher:
-  name: Mirjam Leslie Pringle
-via: {}
 starred: false
-sourcePath: _posts/2016-08-25-gepocheerd-ei-op-brood.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 # Gepocheerd ei op brood
