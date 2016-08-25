@@ -1,16 +1,16 @@
-typography_spectrum: 0.7064060713164508
+layout_spectrum: 0.1576740094460547
+typography_spectrum: 0.8568858213257045
 color:
-  brandStrength: 0.4936976716853678
-  lightness: 0.29633415467105806
-  saturation: 0.8878979014698416
-  rhythmicContrast: 0.804518846096471
+  brandStrength: 0.45559898018836975
+  lightness: 0.6482794296462089
+  saturation: 0.4271875328850001
+  rhythmicContrast: 0.32495231949724257
   brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-layout_spectrum: 0.000033903634175658226
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: Veggie Very Much
 navigation:
   - name: Veggie In persoon
