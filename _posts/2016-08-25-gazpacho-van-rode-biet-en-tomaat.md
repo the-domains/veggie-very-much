@@ -1,4 +1,12 @@
 ---
+datePublished: '2016-08-25T17:44:51.873Z'
+sourcePath: _posts/2016-08-25-gazpacho-van-rode-biet-en-tomaat.md
+author: []
+via: {}
+dateModified: '2016-08-25T17:44:50.973Z'
+title: Gazpacho van rode biet en tomaat
+publisher:
+  name: Mirjam Leslie Pringle
 description: >-
   We waren er nog nooit geweest, Amante Beachclub, maar voor de 65ste verjaardag
   van opa Ruub moest er flink uitgepakt worden! Opa en oma (oma Kitty, weet je
@@ -10,24 +18,15 @@ description: >-
   daaronder in de diepte de fantastische blauw zee die behoorlijk tekeer ging.
   We werden er stil van, en geloof me, we hebben al best wat mooie plekken
   gezien!
-dateModified: '2016-08-25T17:31:09.065Z'
-datePublished: '2016-08-25T17:31:22.406Z'
-title: Gazpacho van rode biet en tomaat
-author: []
-publisher:
-  name: Mirjam Leslie Pringle
-via: {}
 starred: false
-sourcePath: _posts/2016-08-25-gazpacho-van-rode-biet-en-tomaat.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f1e3538-06b7-4191-ba2c-afbf3bf06d4a.jpg)
-
 ## Gazpacho van rode biet en tomaat
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f1e3538-06b7-4191-ba2c-afbf3bf06d4a.jpg)
 
 #### Lekker _posh_ op een van de mooiste plekken van Ibiza!
 
