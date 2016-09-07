@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-25T17:44:51.873Z'
+datePublished: '2016-09-03T09:45:53.407Z'
 sourcePath: _posts/2016-08-25-gazpacho-van-rode-biet-en-tomaat.md
 author: []
 via: {}
-dateModified: '2016-08-25T17:44:50.973Z'
+dateModified: '2016-09-03T09:45:52.423Z'
 title: Gazpacho van rode biet en tomaat
 publisher:
   name: Mirjam Leslie Pringle
@@ -31,8 +31,6 @@ _type: MediaObject
 #### Lekker _posh_ op een van de mooiste plekken van Ibiza!
 
 We waren er nog nooit geweest, Amante Beachclub, maar voor de 65ste verjaardag van opa Ruub moest er flink uitgepakt worden! Opa en oma (oma Kitty, weet je wel, van de toetjes), maar ook broer Bart en zus Bien (allen familie van mijn man) waren voor de gelegenheid naar Ibiza gevlogen om deze mijlpaal met ons te vieren. We kwamen aanrijden, waar we, nog boven aan de baai, al een glimp van het azuurblauwe water opvingen. Eenmaal binnen bij de bar staarden we ons blind op het prachtige terras wat weer uitkeek op het tweede terras, met daaronder in de diepte de fantastische blauw zee die behoorlijk tekeer ging. We werden er stil van, en geloof me, we hebben al best wat mooie plekken gezien!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba130214-68b3-4948-ae72-9b090c06fd63.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a54a647a-3df2-4ee7-b82d-850fe982d60a.jpg)
 
 We kregen een tafel op het laagste terras, het dichts bij het water, met onze voeten in het zand en beschut door een grote parasol. Een heerlijke zeebries waaide de 40 graden zo van ons af en met onze eerste cocktail van mango, rum en munt proostten we op Ruub, die het uiteraard niet kon laten een traantje weg te pinken.
 
@@ -54,18 +52,12 @@ Afijn, waar ik heen wil, is dus die kleine appetizer die we voorgeschoteld krege
 Maak om te beginnen de bouillon klaar, afhanklijk van wat je gebruikt: blokjes of poeder, maak je de juiste hoeveelheid.
 
 Ontvel de tomaten door ze even aan de bovenkant in te kruisen en ze daarna 1 minuut in kokend water onder te dompelen. Laat ze daarna even een paar minuten afkoelen, waarna je het velletje er gemakkelijk af haalt. Snijd ze in parten en doe ze in de blender. (Of gebruik een staafmixer).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8c9de7c0-57c8-4f89-8514-195ff08bb175.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ca88d08-1141-42f8-92dd-155c9a38f3e9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11bca976-d83d-4f99-bc38-ec2c8c2dc358.jpg)
 
 Voeg de gekookte bieten toe, ook in parten gesneden. Doe daar de bouillon bij en mix tot het een gladde massa is.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eddeed54-b895-42a2-8f71-3e1e4908044a.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/256db2d3-e482-40a6-8f27-7ae09ccef3d9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fbc7d166-4393-4fd1-91ae-d68f0b6f39f1.jpg)
 
 Snijd daarna de komkommer in grove stukken en voeg deze toe. Voeg dan ook de knoflook, de rode ui, de olijfolie, peper en zout toe en laat nog zeker een paar minuten op de hoogste stand draaien.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4ccea7a-957c-41e2-8f74-fc5a477e4b08.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5a45634-8971-4d23-94e5-7484fec2b63b.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36a09b7d-9e6f-48bd-ad5c-1189a6299487.jpg)
 
 Laat de soep goed koud worden in de koelkast alvorens te serveren, en garneer met een druppeltje extra vierde olijfolie bij het opdienen. Eventueel met wat brood.
